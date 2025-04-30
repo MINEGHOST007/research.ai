@@ -11,4 +11,14 @@ exa_py
 arxiv
 semanticscholar
 python-dotenv
-difflib
+bs4
+gTTS
+pydub
+ffmpeg-python
+kokoro
+soundfile
+transformers
+datasets
+torch
+librosa
+scipy
